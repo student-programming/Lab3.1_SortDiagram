@@ -1,0 +1,9 @@
+d:\КомпОбрДанн\Csharp\SortDiagram\SortDiagram\bin\Debug\SortDiagram.exe.config
+d:\КомпОбрДанн\Csharp\SortDiagram\SortDiagram\bin\Debug\SortDiagram.exe
+d:\КомпОбрДанн\Csharp\SortDiagram\SortDiagram\bin\Debug\SortDiagram.pdb
+d:\КомпОбрДанн\Csharp\SortDiagram\SortDiagram\obj\Debug\SortDiagram.csprojResolveAssemblyReference.cache
+d:\КомпОбрДанн\Csharp\SortDiagram\SortDiagram\obj\Debug\SortDiagram.Form1.resources
+d:\КомпОбрДанн\Csharp\SortDiagram\SortDiagram\obj\Debug\SortDiagram.Properties.Resources.resources
+d:\КомпОбрДанн\Csharp\SortDiagram\SortDiagram\obj\Debug\SortDiagram.csproj.GenerateResource.Cache
+d:\КомпОбрДанн\Csharp\SortDiagram\SortDiagram\obj\Debug\SortDiagram.exe
+d:\КомпОбрДанн\Csharp\SortDiagram\SortDiagram\obj\Debug\SortDiagram.pdb
