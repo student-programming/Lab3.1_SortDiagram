@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WindowsFormsApplication1
+{
+    class BubbleSorter
+    {
+        private int _i;
+        private int _j;
+        private readonly int[] _numbers;
+        public BubbleSorter(int[] numbers)
+        {
+            _numbers = numbers;
+        }
+        public int[] Sort()
+        {
+            for (int i = 0; i < _numbers.Length; i++)
+                for (int j = 0; j < _numbers.Length - 1 - i; j++)
+                {
+                    if (_numbers[j] <= _numbers[j + 1]) continue;
+                    int temp = _numbers[j];
+                    _numbers[j] = _numbers[j + 1];
+                    _numbers[j + 1] = temp;
+                }
+            return _numbers;
+        }
+        public int[] StepByStepSort()
+        {
+            bool exit = false;
+            for (int i = _i; i < _numbers.Length; i++)
+            {
+                for (int j = _j; j < _numbers.Length - 1 - i; j++)
+                {
+                    if (_numbers[j] > _numbers[j + 1])
+                    {
+                        int temp = _numbers[j];
+                        _numbers[j] = _numbers[j + 1];
+                        _numbers[j + 1] = temp;
+                        _i = i;
+                        _j = j;
+                        exit = true;
+                    }
+                    if (j >= _numbers.Length - 2 - i)
+                        _i++;
+                    if (exit)
+                        break;
+                }
+                if (_i > i) _j = 0;
+                if (exit)
+                    break;
+            }
+            return _numbers;
+        }
+    }
+}

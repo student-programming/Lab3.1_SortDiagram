@@ -1,0 +1,9 @@
+D:\КомпОбрДан\Csharp\Lab1_Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\КомпОбрДан\Csharp\Lab1_Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\КомпОбрДан\Csharp\Lab1_Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\КомпОбрДан\Csharp\Lab1_Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\КомпОбрДан\Csharp\Lab1_Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\КомпОбрДан\Csharp\Lab1_Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\КомпОбрДан\Csharp\Lab1_Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\КомпОбрДан\Csharp\Lab1_Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\КомпОбрДан\Csharp\Lab1_Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
